@@ -5,18 +5,5 @@
 https://www.hackerrank.com/challenges/marcs-cakewalk/problem
 
 ## 解题思路 ##
-这个题就是太典型的贪心问题。。直接把卡路里按降序排序就OK了，证明方法就是取相邻两项：
-
-<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
-formula1: $$n==x$$
-
-formula2: $$n!=x$$
-
-formula3: (m==y)
-
-formula4: [m!=y]
-
-formula5: \(k==z\)
-
-formula6: \[k!=z\]
+这个题就是太典型的贪心问题。。直接把卡路里按降序排序就OK了，证明方法就是取相邻两项验证大的卡路里优先吃会使跑步的路程最小！这个就自己证吧，非常简单！
 
